@@ -1,9 +1,8 @@
-# Open Store
+# nft_marketPlace
 
-# [Demo Video](https://www.youtube.com/watch?v=sHytyvUQB0Q)
 # Tagline
 
-Open Store is a NFT marketplace where traders can buy and sell NFT tokens through the usage of ethers and track the ownership of digital assets.
+nft_marketPlace is a NFT marketplace where traders can buy and sell NFT tokens through the usage of ethers and track the ownership of digital assets.
 
 # Problem it Solves
 
@@ -33,15 +32,16 @@ Open Store is a NFT marketplace where traders can buy and sell NFT tokens throug
 ![](https://res.cloudinary.com/dnv3ztqf1/image/upload/v1632645360/devathon/design.jpg)
 
 
-# Technologies Used
 
-* Polygon
-* IPFS
-* Next.js
-* Hardhat
-* Ethereum
-* Solidity
-* Metamask
-* HTML/CSS
-* BootStrap
-* JavaScript
+## Tech Stack
+
+- Blockchain: Ethereum, Polygon
+- IPFS: ipfs-api
+- Quicknode
+- Smart Contract: Solidity
+- Hardhat
+- Next.js
+- Metamask
+- HTML/CSS
+- BootStrap
+- JavaScript
