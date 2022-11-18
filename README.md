@@ -1,10 +1,8 @@
 # nft_marketPlace
 
-# Tagline
-
 nft_marketPlace is a NFT marketplace where traders can buy and sell NFT tokens through the usage of ethers and track the ownership of digital assets.
 
-# Problem it Solves
+## Problem it Solves
 
 * **Duplicate Asset Problem**: Duplication of digital assets is not possible due to non fungibility of NFT's.
 
@@ -16,7 +14,9 @@ nft_marketPlace is a NFT marketplace where traders can buy and sell NFT tokens t
 
 * **Data Storage problem of Blockchain**: Blockchain can't be used for storing media files for media assets in an efficient manner, so we used IPFS for digital assets. 
 
-# Challenges Faced 
+* **Quicknode fast web3 infrastructure**: It Web3 infrastructure platform, helping developers & businesses build, launch, and scale blockchain-powered applications (dApps) very feasibly.
+
+## Challenges Faced 
 
 ![](https://res.cloudinary.com/dnv3ztqf1/image/upload/v1632647684/devathon/1_hu7TeBZ7lX4BTzUVLIhQJQ_u0vhgp.png)
 
